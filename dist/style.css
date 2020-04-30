@@ -1,0 +1,96 @@
+header {
+  font-family: "showcard gothic";
+  text-align: center;
+  margin: 25px 0 50px 0;
+  text-decoration: underline;
+}
+body {
+  background-color: silver;
+  font-family: "arial";
+  text-align: center;
+}
+  h2 {
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+canvas{
+  width: 400pt;
+  //height: 400pt;
+  border: 2px solid dimgrey;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  position: static;
+  border-radius: 30px;
+  box-shadow: 10px 10px gray;
+}
+.canvases{
+  text-align: center;
+}
+input{
+  padding: 6px;
+  margin-left: 20px;
+  border: solid 1px lightslategrey;
+  background-color: lightslategrey;
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  cursor: pointer;
+  float: left;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+input:hover{
+  background-color: darkslategrey;
+  text-decoration: underline;
+  border: 1px solid darkslategrey;
+  cursor: pointer;
+  border-radius: 8px;
+}
+input:active{
+   background-color: darkslategrey;
+  text-decoration: underline;
+  border: 1px solid darkslategrey;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.finput1{
+  width:20%;
+  float: left;
+  margin-left:15%;
+  margin-bottom: 35px;
+}
+.finput2c{
+  width:20%;
+  float: right;
+  margin-right:15%;
+  margin-bottom: 35px;
+}
+#explaincanvas{
+  float:left;
+  margin-left:15%;
+}
+#explaincanvas2{
+  float:right;
+  margin-right:15%;
+}
+#hide{
+  position: relative;
+  left:46%;
+  padding:20px;
+  margin-top: 20px;
+}
+#explaincanvas4{
+  float:left;
+  margin-left:13%;
+}
+#explaincanvas5{
+  float:right;
+  margin-right:18%;
+}
+#unhidebutton{
+  position: absolute;
+  padding:15px;
+  margin-bottom: 35px;
+}

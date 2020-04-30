@@ -12,4 +12,7 @@ A aplicação aqui já vem com os dois mecanismos, o de codificação e de decod
 - Com o clique de um botão veja uma imagem desaparecer dentro da outra.
 - Com o clique de outro botão veja as duas imagens reaparecerem abaixo.
 
+# TODO
+
+- Atualizar a aplicação para frameworks mais recentes (Node.js e React.js)
 
